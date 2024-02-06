@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% height="300px" src="https://github.com/Yan10Albuquerque/Yan10Albuquerque/blob/main/Design%20sem%20nome.png" />
+<img align="center" style="margin-bottom:100px" width=100% height="250px" src="https://github.com/Yan10Albuquerque/Yan10Albuquerque/blob/main/Design%20sem%20nome.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu resolvo grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend usando Django ao desenvolvimento frontend usando TypeScript, sou apaixonado por descobrir novas coisas e usá-las para criar soluções de alta qualidade. Hoje, sou um desenvolvedor full stack de nível médio focado em desenvolvimento web.</p>&nbsp;
